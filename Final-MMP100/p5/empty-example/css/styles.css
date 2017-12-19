@@ -1,0 +1,23 @@
+body{
+    background-color:#000000;
+    
+}
+p{
+  color: #ffffff;
+  text-align: center;
+  text-indent: 50px;
+  margin: auto;
+  font-size: 30px;
+    
+}
+
+h1{text-align:center;
+   color: #54FF9F;
+}
+img {
+    display: block;
+    margin: auto;
+    
+}
+li,a{color:#ea2424}
+
